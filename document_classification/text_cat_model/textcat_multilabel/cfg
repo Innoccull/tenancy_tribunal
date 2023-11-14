@@ -1,0 +1,27 @@
+{
+  "labels":[
+    "Damage",
+    "Pet",
+    "Alterations",
+    "Reasonably Clean and Tidy",
+    "Chattels",
+    "Return Access Items",
+    "Carpet Cleaning",
+    "Failure to Return Bond",
+    "Rent Increase",
+    "Property Condition",
+    "Wrongful Termination",
+    "Quiet Enjoyment",
+    "Retaliatory Notice",
+    "Rent Arrears",
+    "Termination",
+    "HHS",
+    "Locks",
+    "Physical Assault",
+    "Tenant Termination",
+    "Tenancy Renewal",
+    "Bond Refund",
+    "Landlord Entry"
+  ],
+  "threshold":0.5
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 12,
+    "text": "Damage",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 13,
+    "text": "Pet",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 14,
+    "text": "Alterations",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 16,
+    "text": "Reasonably Clean and Tidy",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 17,
+    "text": "Chattels",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 18,
+    "text": "Return Access Items",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 20,
+    "text": "Carpet Cleaning",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 21,
+    "text": "Failure to Return Bond",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 22,
+    "text": "Rent Increase",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 23,
+    "text": "Property Condition",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 24,
+    "text": "Wrongful Termination",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 25,
+    "text": "Quiet Enjoyment",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 27,
+    "text": "Retaliatory Notice",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 28,
+    "text": "Rent Arrears",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 29,
+    "text": "Termination",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 30,
+    "text": "HHS",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 32,
+    "text": "Locks",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 33,
+    "text": "Physical Assault",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 36,
+    "text": "Tenant Termination",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 37,
+    "text": "Tenancy Renewal",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 43,
+    "text": "Bond Refund",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 44,
+    "text": "Landlord Entry",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  }
+]
