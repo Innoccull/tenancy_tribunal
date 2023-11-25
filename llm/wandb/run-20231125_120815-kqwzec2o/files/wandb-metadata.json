@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-11-24T23:08:19.068880",
+    "startedAt": "2023-11-24T23:08:15.846280",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Innoccull/tenancy_tribunal.git",
+        "commit": "f36f57db0b4b3601f619c80320c8cafec8be3683"
+    },
+    "email": "christoph.rodgers@gmail.com",
+    "root": "C:/Users/Chris/tenancy_tribunal",
+    "host": "DESKTOP-L1FDBPN",
+    "username": "Chris",
+    "executable": "c:\\Users\\Chris\\anaconda3\\envs\\tenancy_tribunal\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 916.3001556396484,
+            "used": 240.64868545532227
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1050",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1050",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 11.910690307617188
+    }
+}
